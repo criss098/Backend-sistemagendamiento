@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-qq^&$q1h%%!u$5rk+li2eu)zu+k)^h1^+@s_5*v_x)m00g8!h1
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['fortalezalegal.cl', 'www.fortalezalegal.cl',]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
